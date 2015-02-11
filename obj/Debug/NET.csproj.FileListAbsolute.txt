@@ -1,0 +1,7 @@
+c:\users\mdelaiglesia\documents\visual studio 2013\Projects\NET\NET\bin\Debug\NET.dll
+c:\users\mdelaiglesia\documents\visual studio 2013\Projects\NET\NET\bin\Debug\NET.pdb
+c:\users\mdelaiglesia\documents\visual studio 2013\Projects\NET\NET\bin\Debug\nunit.framework.dll
+c:\users\mdelaiglesia\documents\visual studio 2013\Projects\NET\NET\bin\Debug\nunit.framework.xml
+c:\users\mdelaiglesia\documents\visual studio 2013\Projects\NET\NET\obj\Debug\NET.csprojResolveAssemblyReference.cache
+c:\users\mdelaiglesia\documents\visual studio 2013\Projects\NET\NET\obj\Debug\NET.dll
+c:\users\mdelaiglesia\documents\visual studio 2013\Projects\NET\NET\obj\Debug\NET.pdb
